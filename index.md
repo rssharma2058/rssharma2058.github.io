@@ -5,17 +5,22 @@ profile:
   align: right
   image: profile.png
 published: true
+Hi! I'm **Roshan Sharma**, a Civil Engineering graduate from Pashchimanchal Campus, Tribhuvan University (TU), Nepal.
+
+My academic interests include **Earth hazards**, **seismic risk analysis**, **RCC design**, and **hydropower infrastructure** in the Himalayan region. I’ve worked on landslide detection using InSAR, seismic waveform processing with Python, and RCC beam testing based on IS and NS standards.
+
 ---
 
-[Gradfolio](https://github.com/jitinnair1/gradfolio){:target="_blank"} is a responsive, dark-mode ready Jekyll theme designed keeping academia in mind. The easiest way to install the theme is to fork it using GitHub. Check the README file for [instructions](https://github.com/jitinnair1/gradfolio#installation){:target="_blank"}.
+### 🔬 Current Focus
 
-If you want to use this space to write your biography here, edit the `index.md` file. You can put a picture in, too. Rename your picture to `profile.png` and put it in the `assets/images/` folder.
+- Seismic hazard mapping of Western Nepal  
+- RCC mix design and structural testing  
+- Applying Python & ObsPy for earthquake analysis  
+- Landslide risk assessment using satellite data
 
-The social-icons footer can be used to link profiles from GitHub, OrcID and ReasearchGate aprart form the usual Twitter, LinkedIn and Facebook. You can add your user ID in the `_config.yml` file to link your accounts.
+---
 
-PS: If you liked the theme, do star it on GitHub!
+📄 [**View My CV**](cv/)
 
-### Also, check out:
+🔗 [GitHub](https://github.com/rssharma2058) | [LinkedIn](https://www.linkedin.com/in/ros2025)
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
