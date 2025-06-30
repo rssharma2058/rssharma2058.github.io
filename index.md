@@ -5,6 +5,7 @@ profile:
   align: right
   image: profile.png
 published: true
+---
 Hi! I'm **Roshan Sharma**, a Civil Engineering graduate from Pashchimanchal Campus, Tribhuvan University (TU), Nepal.
 
 My academic interests include **Earth hazards**, **seismic risk analysis**, **RCC design**, and **hydropower infrastructure** in the Himalayan region. I’ve worked on landslide detection using InSAR, seismic waveform processing with Python, and RCC beam testing based on IS and NS standards.
